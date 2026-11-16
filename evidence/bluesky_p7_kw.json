@@ -1,0 +1,7 @@
+{
+ "channel": "bluesky",
+ "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=vivo%20CAR-T%20double%20knockout%20screen&limit=100&sort=latest",
+ "retrieved_utc": "2026-11-16T13:20:01Z",
+ "query": "vivo CAR-T double knockout screen",
+ "records": []
+}

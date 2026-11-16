@@ -1,0 +1,7 @@
+{
+ "channel": "hackernews",
+ "source_url": "https://hn.algolia.com/api/v1/search?query=Observation%20prethermal%20dynamical%20phase%20transitions&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+ "retrieved_utc": "2026-11-16T13:19:20Z",
+ "query": "Observation prethermal dynamical phase transitions",
+ "records": []
+}

@@ -1,0 +1,64 @@
+WARN: Bluesky query failed '10.1038/s41586-026-11336-3': Expecting value: line 1 column 1 (char 0)
+WARN: Bluesky query failed 'Opportunistically Detecting Signs Hypertension Consumer': Expecting value: line 1 column 1 (char 0)
+WARN: Bluesky query failed '10.1038/s41586-026-11233-9': Expecting value: line 1 column 1 (char 0)
+WARN: Bluesky query failed 'Vivo CRISPR Base Editing ANGPTL': Expecting value: line 1 column 1 (char 0)
+WARN: Bluesky query failed '10.1038/s41586-026-11228-6': Expecting value: line 1 column 1 (char 0)
+WARN: Bluesky query failed 'AI-native experimental laboratory autonomous biomolecular': Expecting value: line 1 column 1 (char 0)
+WARN: Bluesky query failed '10.1038/s41586-026-11225-9': Expecting value: line 1 column 1 (char 0)
+WARN: Bluesky query failed 'Observation prethermal dynamical phase transitions': Expecting value: line 1 column 1 (char 0)
+WARN: Bluesky query failed '10.1038/s41586-026-11351-4': Expecting value: line 1 column 1 (char 0)
+WARN: Bluesky query failed 'Hydrogen Derivatives Enable Cost-Effective Carbon': Expecting value: line 1 column 1 (char 0)
+WARN: Bluesky query failed '10.1038/s41586-026-11209-9': Expecting value: line 1 column 1 (char 0)
+WARN: Bluesky query failed 'Ecological social cues orchestrate concerted': Expecting value: line 1 column 1 (char 0)
+WARN: Bluesky query failed '10.1038/s41586-026-10956-z': Expecting value: line 1 column 1 (char 0)
+WARN: Bluesky query failed 'vivo CAR-T double knockout screen': Expecting value: line 1 column 1 (char 0)
+WARN: Bluesky query failed '10.1038/s41586-026-11218-8': Expecting value: line 1 column 1 (char 0)
+WARN: Bluesky query failed 'two-dimensional reticular triaxial molecularly woven': Expecting value: line 1 column 1 (char 0)
+WARN: Bluesky query failed '10.1038/s41586-026-11133-y': Expecting value: line 1 column 1 (char 0)
+WARN: Bluesky query failed 'Accelerating commercialization deployment indoor photovoltaics': Expecting value: line 1 column 1 (char 0)
+WARN: Bluesky query failed '10.1126/sciadv.aei3504': Expecting value: line 1 column 1 (char 0)
+WARN: Bluesky query failed 'true scale global wildlife trade': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed '10.1038/s41586-026-11336-3': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed 'Opportunistically Detecting Signs Hypertension Consumer': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed '10.1038/s41586-026-11233-9': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed 'Vivo CRISPR Base Editing ANGPTL': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed '10.1038/s41586-026-11228-6': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed 'AI-native experimental laboratory autonomous biomolecular': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed '10.1038/s41586-026-11225-9': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed 'Observation prethermal dynamical phase transitions': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed '10.1038/s41586-026-11351-4': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed 'Hydrogen Derivatives Enable Cost-Effective Carbon': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed '10.1038/s41586-026-11209-9': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed 'Ecological social cues orchestrate concerted': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed '10.1038/s41586-026-10956-z': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed 'vivo CAR-T double knockout screen': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed '10.1038/s41586-026-11218-8': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed 'two-dimensional reticular triaxial molecularly woven': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed '10.1038/s41586-026-11133-y': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed 'Accelerating commercialization deployment indoor photovoltaics': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed '10.1126/sciadv.aei3504': Expecting value: line 1 column 1 (char 0)
+WARN: Reddit query failed 'true scale global wildlife trade': Expecting value: line 1 column 1 (char 0)
+WARN: extractor failed for bluesky_p10_doi.json: name 'out' is not defined
+WARN: extractor failed for bluesky_p10_kw.json: name 'out' is not defined
+WARN: extractor failed for bluesky_p1_doi.json: name 'out' is not defined
+WARN: extractor failed for bluesky_p1_kw.json: name 'out' is not defined
+WARN: extractor failed for bluesky_p2_doi.json: name 'out' is not defined
+WARN: extractor failed for bluesky_p2_kw.json: name 'out' is not defined
+WARN: extractor failed for bluesky_p3_doi.json: name 'out' is not defined
+WARN: extractor failed for bluesky_p3_kw.json: name 'out' is not defined
+WARN: extractor failed for bluesky_p4_doi.json: name 'out' is not defined
+WARN: extractor failed for bluesky_p4_kw.json: name 'out' is not defined
+WARN: extractor failed for bluesky_p5_doi.json: name 'out' is not defined
+WARN: extractor failed for bluesky_p5_kw.json: name 'out' is not defined
+WARN: extractor failed for bluesky_p6_doi.json: name 'out' is not defined
+WARN: extractor failed for bluesky_p6_kw.json: name 'out' is not defined
+WARN: extractor failed for bluesky_p7_doi.json: name 'out' is not defined
+WARN: extractor failed for bluesky_p7_kw.json: name 'out' is not defined
+WARN: extractor failed for bluesky_p8_doi.json: name 'out' is not defined
+WARN: extractor failed for bluesky_p8_kw.json: name 'out' is not defined
+WARN: extractor failed for bluesky_p9_doi.json: name 'out' is not defined
+WARN: extractor failed for bluesky_p9_kw.json: name 'out' is not defined
+mentions: 13
+channels: {'news_blogs': 11, 'youtube': 2}
+papers: {1: 3, 2: 2, 3: 3, 5: 1, 6: 1, 7: 1, 8: 1, 10: 1}
+EXIT=0

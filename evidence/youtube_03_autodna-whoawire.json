@@ -1,0 +1,13 @@
+{
+  "channel": "youtube",
+  "url": "https://www.youtube.com/watch?v=Jso_YgNx2BU",
+  "retrieved_utc": "2026-11-16T13:50:00Z",
+  "headline": "This AI Plans Experiments, Then Runs the Lab",
+  "published_time": "2026-11-05T22:00:01Z",
+  "author": "Whoa Wire",
+  "publication": "YouTube",
+  "text": "This AI Plans Experiments, Then Runs the Lab\n\nShanghai Jiao Tong University's AutoDNA combines AI planning with robotic lab work. Given a plain-language request, it coordinates more than twenty instrument types. A DNA-storage demonstration recovered its message exactly; another experiment identified and validated a cancer-linked mutation in a clinical sample. Humans still prepare and maintain the platform, replenish supplies, remove waste and sometimes fix hardware errors. The goal is more autonomous labs, not a claim that scientists are obsolete.\n\nResearch credits: Mingyu Wu and colleagues, Nature, “An AI-native experimental laboratory for autonomous biomolecular operations,” published Nov 4, 2026. Shanghai Jiao Tong University AutoDNA project. Reporting: Heidi Ledford, Nature News; James Zou, Nature News & Views; Academic Headline/36Kr.\nPaper and supplementary-video credit: Wu et al., Nature (2026), Shanghai Jiao Tong University. Footage: real AutoDNA lab video from Supplementary Videos 2, 4, 5 and 6. Original speed labels and explanatory overlays remain in some shots.\nhttps://www.nature.com/articles/s41586-026-11228-6\nhttps://ipads.sjtu.edu.cn/autodna/\n\nMusic: “Determined Pursuit (epic orchestra loop)” by Emma_MA — OpenGameArt, CC0 public domain.\nhttps://opengameart.org/content/determined-pursuit-epic-orchestra-loop\n#Shorts #AI #Robotics #Science #AutoDNA",
+  "links": [
+    "https://www.nature.com/articles/s41586-026-11228-6"
+  ]
+}

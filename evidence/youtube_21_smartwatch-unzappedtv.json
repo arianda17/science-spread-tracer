@@ -1,0 +1,13 @@
+{
+  "channel": "youtube",
+  "url": "https://www.youtube.com/watch?v=IsHi-YxowEk",
+  "retrieved_utc": "2026-11-16T13:50:00Z",
+  "headline": "Google's Watch Beat Your Doctor's Blood Pressure Check — In One Study",
+  "published_time": "2026-11-10T00:13:36Z",
+  "author": "unZappedTV",
+  "publication": "YouTube",
+  "text": "Google's Watch Beat Your Doctor's Blood Pressure Check — In One Study\n\nGoogle's watch beat your doctor's blood pressure check — in one 196-person study. Google Research put AI on a regular smartwatch's pulse (PPG) and motion sensors, with no cuff calibration, and tested it against the gold standard: a 24-hour ambulatory blood pressure monitor. Published in Nature, Nov 5, 2026.\n\nWhat the study found:\n• The watch caught 65.8% of people with high blood pressure; a single initial office check caught 55.3%. Both had 90% specificity\n• So the watch still missed about a third of people\n• In a smaller follow-up group (n=48, people with a high office reading), multi-day home cuff monitoring caught more (89.2%) than the watch (78.4%)\n• Google calls it early feasibility research; the findings helped inform the Blood pressure trends feature\n\nThe feature: Blood pressure trends in the Google Health app, on Pixel Watch 3, 4 and 5 (included) and Fitbit Edge / Fitbit Air (Google Health Premium). It gives no numbers — just a monthly High / Not high. If it says High, Google recommends 7 days of readings with an upper-arm cuff, then share them with your doctor. \"Not high\" doesn't promise your blood pressure is normal.\n\nTo be clear: Google says this is a general wellness feature — not a diagnosis, not a hypertension prescreener, and not a replacement for a blood pressure cuff or your doctor. Not for use during pregnancy. This video is not medical advice.\n\nSources:\nNature (Google Research, Nov 5, 2026) — \"Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch\": https://www.nature.com/articles/s41586-026-11336-3\nGoogle Research blog — \"Detecting signs of hypertension using wearable sensors\": https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/\nGoogle Health — Blood pressure: https://healthapp.google/latest-news/blood-pressure/\nGoogle Health Help — Track your Blood pressure trends: https://support.google.com/googlehealth/answer/18512269\nGoogle Health Help — Health Guardian features: https://support.google.com/googlehealth/answer/18538590\n\nImages: Google (The Keyword, Health Guardian features); Google Health (healthapp.google). Fact cards are original unZapped graphics.\n\n#PixelWatch #Fitbit #BloodPressure #FromTheVoid",
+  "links": [
+    "https://www.nature.com/articles/s41586-026-11336-3"
+  ]
+}

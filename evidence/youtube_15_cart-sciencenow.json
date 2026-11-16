@@ -1,0 +1,13 @@
+{
+  "channel": "youtube",
+  "url": "https://www.youtube.com/watch?v=s2B8FXD9jBo",
+  "retrieved_utc": "2026-11-16T13:50:00Z",
+  "headline": "Double gene knockout supercharges CAR-T in mice",
+  "published_time": "2026-11-06T05:58:40Z",
+  "author": "ScienceNow!",
+  "publication": "YouTube",
+  "text": "Double gene knockout supercharges CAR-T in mice\n\nScienceNow! short on a peer-reviewed Nature Version of Record.\n\nTitle: In vivo CAR-T double knockout screen maps synergistic antitumour gene pairs\nAuthors: Liqun Zhou, Paul A. Renauer, Kaiyuan Tang, Shanshan Li, Zhicheng Luo, Yanzhi Feng, Shawn H. Lin, Feifei Zhang, Daniel Park, Shao-Yu Fang, Grace Vest, Zhihan Zhao, William Dorst, Luojia Yang, Chuanpeng Dong, Xingxin Pan, Lars Klemm, S. Stephen Yi, Nidhi Sahni, Lei Peng, Markus Müschen, Xiaoyu Zhou, Sidi Chen (23 authors)\nJournal: Nature (published online 2026-11-04; Article Published 04 November 2026)\nDOI: https://doi.org/10.1038/s41586-026-10956-z\n\nCAR-T cell therapy can wipe out some blood cancers, but T cells carry built-in molecular brakes that blunt the attack, especially against solid tumours where many designs still fail.\n\nZhou, Renauer, Tang, Chen, and colleagues ran a high-throughput in vivo double-knockout CRISPR screen in CAR-T cells, deleting gene pairs together to find combinations that work better than knocking out either gene alone.\n\nThe top hit was NR4A1 plus SOCS3. Those double-knockout CAR-T cells showed higher metabolic fitness and mitochondrial activity on transcriptome and functional assays. In several mouse tumour models they drove strong antitumour effects and long-term tumour control, without clear safety red flags in the tests reported. The pair also outperformed several published single-gene and dual-gene engineering benchmarks in head-to-head comparisons.\n\nLimitation: this is preclinical mouse work; a human trial of NR4A1–SOCS3 double-knockout CAR-T cells has not been reported here.\n\nNature, 2026.\n\nAI hunch, not proven: If NR4A1–SOCS3 double knockout keeps working safely in people, CAR-T designs might routinely cut two intracellular brakes at once — but this paper only tested mice. What do you think?\n\nScienceNow! reports new peer-reviewed science hourly — plain English, honest numbers, clear caveats — so you stay up to date without the hype.\n\n#ScienceNow #Nature #CART #Immunotherapy #CancerResearch\n\nBuy ScienceTees here: https://sciencenowtees.etsy.com",
+  "links": [
+    "https://doi.org/10.1038/s41586-026-10956-z"
+  ]
+}

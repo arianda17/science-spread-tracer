@@ -1,0 +1,7 @@
+{
+ "channel": "wikipedia",
+ "source_url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=%2210.1038/s41586-026-10956-z%22&srprop=snippet&srlimit=20&format=json",
+ "retrieved_utc": "2026-11-16T13:20:20Z",
+ "query": "10.1038/s41586-026-10956-z",
+ "records": []
+}

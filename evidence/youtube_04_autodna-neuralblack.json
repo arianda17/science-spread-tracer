@@ -1,0 +1,13 @@
+{
+  "channel": "youtube",
+  "url": "https://www.youtube.com/watch?v=-qJGs2y-0-o",
+  "retrieved_utc": "2026-11-16T13:50:00Z",
+  "headline": "An AI Just Ran a DNA Lab for 8 Days — Humans Only Refilled the Chemicals",
+  "published_time": "2026-11-15T18:00:53Z",
+  "author": "NEURAL_BLACK",
+  "publication": "YouTube",
+  "text": "An AI Just Ran a DNA Lab for 8 Days — Humans Only Refilled the Chemicals\n\nAn AI just ran a DNA lab for eight days straight — and the humans only refilled the chemicals.\n\nAutoDNA, from Shanghai Jiao Tong University, is a team of AI agents that designs experiments, writes the code, and drives more than 20 instruments. Published in Nature on November 4, 2026, its hardest test stored a sentence inside DNA — 78 strands, 11,382 robot steps, 203.5 hours — and read it back letter-perfect, zero errors. Then it found a KRAS G13D cancer mutation in a real tumor sample and built its own primers to prove it.\n\nBut it's not fully autonomous: 14 hardware errors hit the run, and 6 needed human hands. Humans still choose the question, refill the reagents, and clear the waste.\n\nPrimary source: Wu et al., \"An AI-native experimental laboratory for autonomous biomolecular operations\", Nature, 4 Nov 2026 — https://doi.org/10.1038/s41586-026-11228-6 (preprint: https://arxiv.org/abs/2507.02379)\n\nFull sources + tools — link in the description.\n\n#Shorts #AI #BioTech #ScienceNews #Nature",
+  "links": [
+    "https://doi.org/10.1038/s41586-026-11228-6"
+  ]
+}

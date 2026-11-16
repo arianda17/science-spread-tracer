@@ -1,0 +1,13 @@
+{
+  "channel": "youtube",
+  "url": "https://www.youtube.com/watch?v=I-lSVc5XYqc",
+  "retrieved_utc": "2026-11-16T13:50:00Z",
+  "headline": "A Laboratory That Turns Requests into Experiments | Nature",
+  "published_time": "2026-11-05T01:57:49Z",
+  "author": "Latest Scientific Papers",
+  "publication": "YouTube",
+  "text": "A Laboratory That Turns Requests into Experiments | Nature\n\nAn AI-native experimental laboratory for autonomous biomolecular operations\nFirst author: Wu, Mingyu\nLast author: Chen, Haibo\nCo-first authors: Mingyu Wu, Zhaoguo Wang, Jiabin Wang\nJournal: Nature\nPublished online: 2026-11-04\nDOI: https://doi.org/10.1038/s41586-026-11228-6\n\nAutoDNA connects AI planning with robotic laboratory equipment to carry out complex DNA tasks, improve experimental performance and coordinate shared instruments. Demonstrations spanning DNA data storage and mutation detection show how integrated laboratories could make sophisticated biomolecular experiments more accessible.",
+  "links": [
+    "https://doi.org/10.1038/s41586-026-11228-6"
+  ]
+}

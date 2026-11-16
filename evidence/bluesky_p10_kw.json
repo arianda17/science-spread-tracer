@@ -1,0 +1,7 @@
+{
+ "channel": "bluesky",
+ "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=true%20scale%20global%20wildlife%20trade&limit=100&sort=latest",
+ "retrieved_utc": "2026-11-16T13:20:11Z",
+ "query": "true scale global wildlife trade",
+ "records": []
+}

@@ -1,0 +1,704 @@
+{
+  "evidence": [
+    {
+      "file": "bluesky_01_smartwatch-springernature.json",
+      "channel": "bluesky",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:35:00Z",
+      "sha256": "a7812d547378214755766f9a4831ebd90c4a3257147fd086d502922eaba0a9c7"
+    },
+    {
+      "file": "bluesky_02_smartwatch-juraschek.json",
+      "channel": "bluesky",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:35:00Z",
+      "sha256": "ea3ba96a521c50056839ec7f5da0dba2293b9678382013a4fdf0b73a9c7f175e"
+    },
+    {
+      "file": "bluesky_03_autodna-nature.json",
+      "channel": "bluesky",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:35:00Z",
+      "sha256": "4f7da3f805e4a28e97f442c9e85d6d95493df2f0efaca43cf68c93f2aa8f1e76"
+    },
+    {
+      "file": "bluesky_04_autodna-stephenturner.json",
+      "channel": "bluesky",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:35:00Z",
+      "sha256": "cce02efc5a93053903268869c46a5ecb59de9f2bd48fa1feb6916cd962dec60b"
+    },
+    {
+      "file": "bluesky_05_drosophila-nature.json",
+      "channel": "bluesky",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:35:00Z",
+      "sha256": "d7323d2f6e111b168bf314bddd3efa9365a420cd88cc537fd80452f2ad3ab663"
+    },
+    {
+      "file": "bluesky_06_woven-fabric-nature.json",
+      "channel": "bluesky",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:35:00Z",
+      "sha256": "8dd5b29a7c51c41da9f9fa508fed68eba29eb5939ec6124f4458ba5fb716cc3a"
+    },
+    {
+      "file": "bluesky_07_prethermal-nature.json",
+      "channel": "bluesky",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:35:00Z",
+      "sha256": "30f26ba3fbdf7141c2dff8864ef064ad08318c5291bcab0031c1452fb8d1e9e2"
+    },
+    {
+      "file": "bluesky_08_cart-nature.json",
+      "channel": "bluesky",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:35:00Z",
+      "sha256": "702b166f8012510a0019da6a64b0a7ad829e14b3a10dc37e976cfd7aac72487c"
+    },
+    {
+      "file": "bluesky_p10_doi.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=10.1126/sciadv.aei3504&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:20:09Z",
+      "sha256": "5365b8976a91e87c8a183bad40f7d130b7e3b499b21dc712d0452e567467c038"
+    },
+    {
+      "file": "bluesky_p10_kw.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=true%20scale%20global%20wildlife%20trade&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:20:11Z",
+      "sha256": "3e93700409e4d52d5d91a0ff176084c4735c140b468478e209bc45dd0325f5f2"
+    },
+    {
+      "file": "bluesky_p1_doi.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=10.1038/s41586-026-11336-3&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:19:42Z",
+      "sha256": "a469e4491761c1401c2c3df8bc2afc3b4f15f23da751ee055ec49bfd7ef6e7c5"
+    },
+    {
+      "file": "bluesky_p1_kw.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=Opportunistically%20Detecting%20Signs%20Hypertension%20Consumer&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:19:44Z",
+      "sha256": "58181f37c1a754cf24ac988aa1e9ec758de4bc2c9513d5704e9516d9f6d405bd"
+    },
+    {
+      "file": "bluesky_p2_doi.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=10.1038/s41586-026-11233-9&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:19:45Z",
+      "sha256": "c096c9a528c84128a5ff854e0c3ec45ef71882c1ad4fe3a1b3e14b65d61232bb"
+    },
+    {
+      "file": "bluesky_p2_kw.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=Vivo%20CRISPR%20Base%20Editing%20ANGPTL&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:19:46Z",
+      "sha256": "1ffd817e0e4416d412d33acf12a486b34463b692e98c4f54e94ce53dee54da5a"
+    },
+    {
+      "file": "bluesky_p3_doi.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=10.1038/s41586-026-11228-6&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:19:48Z",
+      "sha256": "58b0642bc81aee7760683a9c1e68b783a46db98cc2cba707a4acc887bdb6d7e5"
+    },
+    {
+      "file": "bluesky_p3_kw.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=AI-native%20experimental%20laboratory%20autonomous%20biomolecular&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:19:49Z",
+      "sha256": "272bce37e5a9d91b1b765515cb8869c4723d9264dc45885bed944660992bdd25"
+    },
+    {
+      "file": "bluesky_p4_doi.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=10.1038/s41586-026-11225-9&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:19:51Z",
+      "sha256": "76a4b48f53b0acdd6b36cabae5d8f0729ce5ba398f1688060d9184ef2cf2efc5"
+    },
+    {
+      "file": "bluesky_p4_kw.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=Observation%20prethermal%20dynamical%20phase%20transitions&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:19:52Z",
+      "sha256": "e5e285ee45a0e8688483b291a82138bc55e63f23794e2588f9a9a83dff59eca0"
+    },
+    {
+      "file": "bluesky_p5_doi.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=10.1038/s41586-026-11351-4&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:19:53Z",
+      "sha256": "f2f6531d1764e4cfa4bca99470a840541e9413d7527d9b7f2b54cb302e6614ca"
+    },
+    {
+      "file": "bluesky_p5_kw.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=Hydrogen%20Derivatives%20Enable%20Cost-Effective%20Carbon&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:19:55Z",
+      "sha256": "9af4bde198a3b3213b0e351913a549cf1a43be027d9cae217419d973a2a97a36"
+    },
+    {
+      "file": "bluesky_p6_doi.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=10.1038/s41586-026-11209-9&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:19:56Z",
+      "sha256": "5b63e80a350769d4a2673a81941eb937dfb63eca232d9e87bb4bc58562be8f4c"
+    },
+    {
+      "file": "bluesky_p6_kw.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=Ecological%20social%20cues%20orchestrate%20concerted&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:19:58Z",
+      "sha256": "92fdce1edb5a0ba99359977391ed9ff21b33f0f069a4f6bdbaed31e9a70e4480"
+    },
+    {
+      "file": "bluesky_p7_doi.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=10.1038/s41586-026-10956-z&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:19:59Z",
+      "sha256": "3c5ff274ab7edb876a44c6f2cbe1530c2dd1e9f54dbaab988c58bf0ef5b0d464"
+    },
+    {
+      "file": "bluesky_p7_kw.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=vivo%20CAR-T%20double%20knockout%20screen&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:20:01Z",
+      "sha256": "cebca0e5f496b70dea0d83091e55bee9f96f47be1328c67afbbdb166e7b6693f"
+    },
+    {
+      "file": "bluesky_p8_doi.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=10.1038/s41586-026-11218-8&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:20:03Z",
+      "sha256": "705906c82ab7aac2d453a61f76e003d585c74b0f4c7d84c6e408ef6935406e5e"
+    },
+    {
+      "file": "bluesky_p8_kw.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=two-dimensional%20reticular%20triaxial%20molecularly%20woven&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:20:04Z",
+      "sha256": "729ac0aec6a3d4c6e88f45dd11e15f3f6051fd1578dfda72e8e977e633a4cbad"
+    },
+    {
+      "file": "bluesky_p9_doi.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=10.1038/s41586-026-11133-y&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:20:06Z",
+      "sha256": "c1d48c23aef56f5aa248508b6830982813ae7af649f4e0646dd1e0ece71b44a9"
+    },
+    {
+      "file": "bluesky_p9_kw.json",
+      "channel": "bluesky",
+      "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=Accelerating%20commercialization%20deployment%20indoor%20photovoltaics&limit=100&sort=latest",
+      "retrieved_utc": "2026-11-16T13:20:08Z",
+      "sha256": "b477660b547a79344deb2dddea8756cb4c72784c331579cd07bdebcff0529807"
+    },
+    {
+      "file": "hackernews_p10_doi.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=10.1126/sciadv.aei3504&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:39Z",
+      "sha256": "ac043a164391850ac61a157f16f726440ec42e9e7c5e039ea1a35f60777ff156"
+    },
+    {
+      "file": "hackernews_p10_kw.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=true%20scale%20global%20wildlife%20trade&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:41Z",
+      "sha256": "d9ca16e135d602f428bbb79ef18f193e9867edc7f8b94200ad159fbd4e456b9d"
+    },
+    {
+      "file": "hackernews_p1_doi.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=10.1038/s41586-026-11336-3&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:06Z",
+      "sha256": "34b9b6153d7ed145f4f7c3c5c06f4d310d546d652f1ad1ec3a83aa59bbe5432f"
+    },
+    {
+      "file": "hackernews_p1_kw.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=Opportunistically%20Detecting%20Signs%20Hypertension%20Consumer&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:09Z",
+      "sha256": "341d9ca953d72dd73633d04edb5891ec56cadfea0fd33ae345db104c8d7a4f4d"
+    },
+    {
+      "file": "hackernews_p2_doi.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=10.1038/s41586-026-11233-9&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:10Z",
+      "sha256": "1786f868c6e8425c3c49d1bbee9797651e8991277426028fde2e358ac2cb8626"
+    },
+    {
+      "file": "hackernews_p2_kw.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=Vivo%20CRISPR%20Base%20Editing%20ANGPTL&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:12Z",
+      "sha256": "dbbf9e732b99d917c722f049f63be4a6a7d9bc735c22e7c2ab6f09116cb4dafc"
+    },
+    {
+      "file": "hackernews_p3_doi.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=10.1038/s41586-026-11228-6&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:14Z",
+      "sha256": "48c07e1053881725ead71e94dad1990f03cb5010570f18faaf8b7c9bde2d11a3"
+    },
+    {
+      "file": "hackernews_p3_kw.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=AI-native%20experimental%20laboratory%20autonomous%20biomolecular&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:16Z",
+      "sha256": "5b2776b30adebbc3b19c0069a3db2b2d92f8e913a9b009bd9bbb06f4358ed6f5"
+    },
+    {
+      "file": "hackernews_p4_doi.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=10.1038/s41586-026-11225-9&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:18Z",
+      "sha256": "32b19db8d0fa195e5abe1d857d239a22c085aa3ebe27521b9fed3d2febd3fbee"
+    },
+    {
+      "file": "hackernews_p4_kw.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=Observation%20prethermal%20dynamical%20phase%20transitions&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:20Z",
+      "sha256": "2d3bc230bb099215656e3fe8f1ea9758120118e3c6979e1c5a12c3191aead26b"
+    },
+    {
+      "file": "hackernews_p5_doi.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=10.1038/s41586-026-11351-4&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:22Z",
+      "sha256": "bd118dfcacd0e619d00400dffeede72c2aa503a1d2781ac4c5efcb898f0b87d7"
+    },
+    {
+      "file": "hackernews_p5_kw.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=Hydrogen%20Derivatives%20Enable%20Cost-Effective%20Carbon&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:23Z",
+      "sha256": "63fa68a31b296929814c6237869d9a37527366d59f412eec059fe141723108e0"
+    },
+    {
+      "file": "hackernews_p6_doi.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=10.1038/s41586-026-11209-9&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:25Z",
+      "sha256": "a576b5eb9556e893b072b4be562a92b84cd90c356d9600faa561f8c11d9e543f"
+    },
+    {
+      "file": "hackernews_p6_kw.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=Ecological%20social%20cues%20orchestrate%20concerted&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:27Z",
+      "sha256": "b6d7f6f787310d2ef59375f533b32a867f1ac37b3d6e0495b31a4ac6829c0303"
+    },
+    {
+      "file": "hackernews_p7_doi.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=10.1038/s41586-026-10956-z&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:29Z",
+      "sha256": "bf9647ed2a0a050c2bc54ff06fdf13eb51a6d79a6e68af0e382519d503838940"
+    },
+    {
+      "file": "hackernews_p7_kw.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=vivo%20CAR-T%20double%20knockout%20screen&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:31Z",
+      "sha256": "bef386e2104f00b5e3fc9f9423cd30d2cb3b1e0ec7912c0abcb76ab45f9f9a75"
+    },
+    {
+      "file": "hackernews_p8_doi.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=10.1038/s41586-026-11218-8&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:33Z",
+      "sha256": "f6a7c27f6bbdb720ac4291a29a6ba8e212d7e2980aba353b323d3f7a14c653c5"
+    },
+    {
+      "file": "hackernews_p8_kw.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=two-dimensional%20reticular%20triaxial%20molecularly%20woven&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:34Z",
+      "sha256": "1d7e1f06d3be0d411993b10a1846b78c30bcf51f911467e5c470f515bc91fd4d"
+    },
+    {
+      "file": "hackernews_p9_doi.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=10.1038/s41586-026-11133-y&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:36Z",
+      "sha256": "30b9cadcf285cb64f5c3682c189fae9057737ceefa02f2de6260873c7b85bbde"
+    },
+    {
+      "file": "hackernews_p9_kw.json",
+      "channel": "hackernews",
+      "source_url": "https://hn.algolia.com/api/v1/search?query=Accelerating%20commercialization%20deployment%20indoor%20photovoltaics&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+      "retrieved_utc": "2026-11-16T13:19:38Z",
+      "sha256": "e934b321b38bfcc052f4ca9fbe46f3f4b38a2e54444e1ae03ff583d226ff6213"
+    },
+    {
+      "file": "news_01_smartwatch-longevitydocs.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:17:40Z",
+      "sha256": "c653c51a3a095b22d0c4b45d4399adec9e532a787a2a711b679bf57b99bed1e6"
+    },
+    {
+      "file": "news_01_smartwatch-medicalxpress.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:17:40Z",
+      "sha256": "eaa6b1716b6cc10bb49d21d296436073c7875a85b68519f5887355303411eedf"
+    },
+    {
+      "file": "news_01_smartwatch-mlq.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:29:00Z",
+      "sha256": "237c6429396d31617f3050ed1182642db5b7ceb1347a42e5b26b084a11a50b05"
+    },
+    {
+      "file": "news_01_smartwatch-techprolonged.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:29:00Z",
+      "sha256": "e775dab772e765080f5824e499a694fa737e1df909fee8cfd8e5b3ff6aaba18f"
+    },
+    {
+      "file": "news_01_smartwatch-watchesreviewed.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:17:40Z",
+      "sha256": "50e92180e6de99a1b75bd5b033f74f7ef6b710c4e4e444a02a33406f48929e3a"
+    },
+    {
+      "file": "news_02_crispr-mediapavilion.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:17:40Z",
+      "sha256": "d04f0ac3904b0f00de73d6f4bf801f36cd91327e7be3087692fe285244d21a0e"
+    },
+    {
+      "file": "news_02_crispr-medicalxpress.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:17:40Z",
+      "sha256": "f8768d2b28f4a6b9b7a9fa5f9465a9a81d578486357e5f77074c35b2a446a6eb"
+    },
+    {
+      "file": "news_03_autodna-ai-hpc.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:17:40Z",
+      "sha256": "6cd5dfdba01aefe2ebee556252c3201a762d94ff0de4ba496ec0d0dd99c57d56"
+    },
+    {
+      "file": "news_03_autodna-aifrontierpost.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:37:00Z",
+      "sha256": "76730b3fd6e2fce05695bb51a8f18ec75ebd9946fa36169fda191fc16c724c1d"
+    },
+    {
+      "file": "news_03_autodna-allatra.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:33:00Z",
+      "sha256": "4c782a0500cff2c79077e53e7f8b8d7df80e31dd5b3ef12f99a5e68a628aea0f"
+    },
+    {
+      "file": "news_03_autodna-artificialscience.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:29:00Z",
+      "sha256": "f2aef307696b7f6290f14676d038d53fdd5719e6c6b58a02a2b3bad66396b43e"
+    },
+    {
+      "file": "news_03_autodna-pebblous.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:37:00Z",
+      "sha256": "a6da3769c46e70dce95b9f7080bdfb0ba8008e1f7b2380a88902abe74d740042"
+    },
+    {
+      "file": "news_03_autodna-rathbiotaclan.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:33:00Z",
+      "sha256": "f80a0e26ae21b3ffce97503b2a79293d1c56ee9fde3d1ca3488e3d06a4d3dd07"
+    },
+    {
+      "file": "news_03_autodna-theworldofai.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:17:40Z",
+      "sha256": "7e174ffd8775c5796e8b4f64ddd66e7caafcbabef47d1045320d1ed4326d34ff"
+    },
+    {
+      "file": "news_04_prethermal-scienceview.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:24:05Z",
+      "sha256": "0c7fa3f1757f94a3d3f9513932af8d7e9f09eefcec86aca60b9c1a378cfdb104"
+    },
+    {
+      "file": "news_05_hydrogen-scienmag.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:17:40Z",
+      "sha256": "f2d88ecc70fc45a7af7ea44edc8eb72f3525464bf77c7111700aee3dcf684fc1"
+    },
+    {
+      "file": "news_06_drosophila-physorg.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:17:40Z",
+      "sha256": "b9fa77f2c041838d4cc8d383c88a811d3b2d36a62577e57c3fe2d525e23e06a6"
+    },
+    {
+      "file": "news_07_cart-emj.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:17:40Z",
+      "sha256": "5504ef0f91df20610814dc07906acda503ddbbac6b3b50f7534d8dd526f835f2"
+    },
+    {
+      "file": "news_08_fabric-physorg.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:17:40Z",
+      "sha256": "ff7e1b5e2bcf81ae6ed81694d440d292f8fa30fca21c9ae781fbc23cf0fdf839"
+    },
+    {
+      "file": "news_10_wildlife-newswise.json",
+      "channel": "news_blogs",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:17:40Z",
+      "sha256": "d1a7ee51d4462871c49320c2885c2fbcef84d899d11689fe351a531215c39965"
+    },
+    {
+      "file": "wikipedia_p1.json",
+      "channel": "wikipedia",
+      "source_url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=%2210.1038/s41586-026-11336-3%22&srprop=snippet&srlimit=20&format=json",
+      "retrieved_utc": "2026-11-16T13:20:13Z",
+      "sha256": "990def1c80fc5090ba10bd4d20821dc685ed4e571f0f4782af50a0e3f0cd1be6"
+    },
+    {
+      "file": "wikipedia_p10.json",
+      "channel": "wikipedia",
+      "source_url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=%2210.1126/sciadv.aei3504%22&srprop=snippet&srlimit=20&format=json",
+      "retrieved_utc": "2026-11-16T13:20:23Z",
+      "sha256": "b2f1d51cffb24e8b9229b77adb13c152ba5bfacbac5dc5bfd565e55a2691c9ab"
+    },
+    {
+      "file": "wikipedia_p2.json",
+      "channel": "wikipedia",
+      "source_url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=%2210.1038/s41586-026-11233-9%22&srprop=snippet&srlimit=20&format=json",
+      "retrieved_utc": "2026-11-16T13:20:15Z",
+      "sha256": "1ce65d5853f26246a679cad1e672fcf0a0264c2c560f34beaf40870ca1613f11"
+    },
+    {
+      "file": "wikipedia_p3.json",
+      "channel": "wikipedia",
+      "source_url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=%2210.1038/s41586-026-11228-6%22&srprop=snippet&srlimit=20&format=json",
+      "retrieved_utc": "2026-11-16T13:20:15Z",
+      "sha256": "ad4f56eaf6365e1ac76c009917397929846b352574db81e2b6712d9ef94eddba"
+    },
+    {
+      "file": "wikipedia_p4.json",
+      "channel": "wikipedia",
+      "source_url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=%2210.1038/s41586-026-11225-9%22&srprop=snippet&srlimit=20&format=json",
+      "retrieved_utc": "2026-11-16T13:20:17Z",
+      "sha256": "75c34653d28d9d7edf7ebe2d53d17fea976f37c9c72c8e0f9e8cb105fba91979"
+    },
+    {
+      "file": "wikipedia_p5.json",
+      "channel": "wikipedia",
+      "source_url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=%2210.1038/s41586-026-11351-4%22&srprop=snippet&srlimit=20&format=json",
+      "retrieved_utc": "2026-11-16T13:20:18Z",
+      "sha256": "6f4f41e348f540ec2c79113fa24488e0e7458ffce59bc59984d21ab5680348c9"
+    },
+    {
+      "file": "wikipedia_p6.json",
+      "channel": "wikipedia",
+      "source_url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=%2210.1038/s41586-026-11209-9%22&srprop=snippet&srlimit=20&format=json",
+      "retrieved_utc": "2026-11-16T13:20:19Z",
+      "sha256": "b7b8216738dde52cb5b43b5c7d8aeb896cd60a7b0428b64632c2ef2c23e5eab2"
+    },
+    {
+      "file": "wikipedia_p7.json",
+      "channel": "wikipedia",
+      "source_url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=%2210.1038/s41586-026-10956-z%22&srprop=snippet&srlimit=20&format=json",
+      "retrieved_utc": "2026-11-16T13:20:20Z",
+      "sha256": "6634864d3b66cf01c2b2bb239f3e6a279615c4675f34933355286ee442b80173"
+    },
+    {
+      "file": "wikipedia_p8.json",
+      "channel": "wikipedia",
+      "source_url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=%2210.1038/s41586-026-11218-8%22&srprop=snippet&srlimit=20&format=json",
+      "retrieved_utc": "2026-11-16T13:20:21Z",
+      "sha256": "94d6bf935d615894ff1bb8d91c5675bb1bcfbf29aa1107d03c04fab0ef894370"
+    },
+    {
+      "file": "wikipedia_p9.json",
+      "channel": "wikipedia",
+      "source_url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=%2210.1038/s41586-026-11133-y%22&srprop=snippet&srlimit=20&format=json",
+      "retrieved_utc": "2026-11-16T13:20:22Z",
+      "sha256": "0e9d8c65a2b5b82041c8be0497711bcb37215925e9521b6863519b02a19a77f7"
+    },
+    {
+      "file": "x_01_autodna-gamehu520.json",
+      "channel": "x",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:43:00Z",
+      "sha256": "f97e3ab97d34060cd8e7ad5c58fa3e234f1308ce5f0ad97f2e72bd44cb68cd2e"
+    },
+    {
+      "file": "youtube_01_smartwatch-hypertension-pawpress.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:17:00Z",
+      "sha256": "4c869f90d9e4afa89b529ca7e017a449f88fdfb3b1ef9a256d0d1f6ea8cafda4"
+    },
+    {
+      "file": "youtube_02_autodna-gerwynn.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:24:00Z",
+      "sha256": "9ff6446924bf790d232fa55a5fc2f5c71aaa050c56a3918d7daa735519dff417"
+    },
+    {
+      "file": "youtube_03_autodna-whoawire.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:50:00Z",
+      "sha256": "27e2a5757a3586e831d6eb7d93ba23c5f82d0d4504209b8d02af96af3f1a170d"
+    },
+    {
+      "file": "youtube_04_autodna-neuralblack.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:50:00Z",
+      "sha256": "f28ba03523cccfcbfcdad0c4c6d18b3a585a159d066a29e6c2cd8a5e3b4b6b7c"
+    },
+    {
+      "file": "youtube_05_autodna-intelhivehindi.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:50:00Z",
+      "sha256": "897e819170996b065c47724915bc41a8f9cea6f8f88b788d78126418a48430f9"
+    },
+    {
+      "file": "youtube_06_autodna-nexosfutura.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:50:00Z",
+      "sha256": "20541b2c530e2883a8082af303eb4cff1be6b4d496bd89a2aaa7b8f3d32ecaf0"
+    },
+    {
+      "file": "youtube_07_autodna-alphaexplorer.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:50:00Z",
+      "sha256": "a9dbd6efaf08f7c40cc920fdf0a0aac504dd0e93943801aa02ba28e6ced0ab2c"
+    },
+    {
+      "file": "youtube_08_autodna-latestsci.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:50:00Z",
+      "sha256": "dfc19a0cdac709beed147d3f8e116230ba48fa0fc991e07294d188f2d04f2ecf"
+    },
+    {
+      "file": "youtube_09_copernicus-autodna-drosophila.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:50:00Z",
+      "sha256": "d6cbbbbc30423d3b3cafb0e1f3096238d9629478e46f6e627d68cd9fac9a28a0"
+    },
+    {
+      "file": "youtube_10_crispr-latestsci.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:50:00Z",
+      "sha256": "a09164445a456fcbd690e78ac3799753efbf4adde11c34ecd22f65e4ff43e60f"
+    },
+    {
+      "file": "youtube_11_crispr-agebiotech.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:50:00Z",
+      "sha256": "2771dbfc3efe949d5e15b69b9decd94489a5e04c8209e6c635d8b4b8fda15d3d"
+    },
+    {
+      "file": "youtube_12_crispr-healthbiotech.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:50:00Z",
+      "sha256": "ad00dc380bedde6421dc408e77793066d1d9a19eb21d5dd77e4218120d4e6aa9"
+    },
+    {
+      "file": "youtube_13_crispr-fueradeespecie.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:50:00Z",
+      "sha256": "0f27af4b68471062c1b721ecabaae11eb2570eb919d41cb5734a6f1d1ec7df43"
+    },
+    {
+      "file": "youtube_14_drosophila-latestsci.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:50:00Z",
+      "sha256": "691b98e93ccd8a0b39712f4ea70bbbeb1b422faadbb7aa3a3dd53f0484ee8fb9"
+    },
+    {
+      "file": "youtube_15_cart-sciencenow.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:50:00Z",
+      "sha256": "91229caadc5fb815072dd65ad9f1809a61d024b5bdae3ed59b24a632d3d40101"
+    },
+    {
+      "file": "youtube_16_fabric-latestsci.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:50:00Z",
+      "sha256": "890492fa581fc54937f0d13f47679f57acec677c98a30066f63c0289144af6cc"
+    },
+    {
+      "file": "youtube_17_fabric-sciencenow.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:50:00Z",
+      "sha256": "4f671f41b58e16ed52634e25d36bf46887181cf49a0886e167d4b567f4aa2d95"
+    },
+    {
+      "file": "youtube_18_wildlife-mobylanguage.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:50:00Z",
+      "sha256": "43ef3cecb5c6bdb45b7396ce911d6072073e73832994537332ab697a46f37c1b"
+    },
+    {
+      "file": "youtube_19_wildlife-lowlatency.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:50:00Z",
+      "sha256": "d626263f5da626dbc90f222c3ec580734cc9b165712a81f9c8bd81f97808cc62"
+    },
+    {
+      "file": "youtube_20_wildlife-twomineexplainer.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:50:00Z",
+      "sha256": "a5ba4ffd54ad045762ef21048530cc950279766af25d0b27e6f38d87f359ef2f"
+    },
+    {
+      "file": "youtube_21_smartwatch-unzappedtv.json",
+      "channel": "youtube",
+      "source_url": "",
+      "retrieved_utc": "2026-11-16T13:50:00Z",
+      "sha256": "82629a51bff683be905411c3cd253b26aa4f932f9b7bc998d1d16026e6e6de5b"
+    }
+  ]
+}

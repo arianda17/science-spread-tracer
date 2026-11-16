@@ -1,0 +1,7 @@
+{
+ "channel": "hackernews",
+ "source_url": "https://hn.algolia.com/api/v1/search?query=10.1038/s41586-026-11228-6&tags=(story,comment)&hitsPerPage=1000&numericFilters=created_at_i%3E%3D1793318400%2Ccreated_at_i%3C%3D1795219140",
+ "retrieved_utc": "2026-11-16T13:19:14Z",
+ "query": "10.1038/s41586-026-11228-6",
+ "records": []
+}

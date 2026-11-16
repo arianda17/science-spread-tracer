@@ -1,0 +1,13 @@
+{
+  "channel": "youtube",
+  "url": "https://www.youtube.com/watch?v=vrE1Vy9d4fs",
+  "retrieved_utc": "2026-11-16T13:50:00Z",
+  "headline": "AI Agents Ran an 11,382-Step DNA Experiment - Humans Only Maintained the Hardware | Nature",
+  "published_time": "2026-11-09T03:50:51Z",
+  "author": "Alpha Explorer",
+  "publication": "YouTube",
+  "text": "AI Agents Ran an 11,382-Step DNA Experiment - Humans Only Maintained the Hardware | Nature\n\nOn November 4, 2026, Nature published AutoDNA: an AI-native laboratory from Shanghai Jiao Tong University where a multi-agent system orchestrates more than 20 types of instruments across DNA synthesis, RNA transcription, amplification and sequencing. The longest run: 203.5 hours and 11,382 hardware steps, with human intervention limited to hardware maintenance like refilling reagents.\n\nWe read the paper past the headline: the four tests it passed (expert-matched DNA synthesis, 3.2x concurrent scheduling, error-free DNA data storage, a validated KRAS G13D mutation find), the sentence it stored in 78 DNA strands, and the fine print - 14 hardware errors (8 self-fixed, 6 needed a person), LLM repeatability warnings, and real scope limits.\n\n00:00 The claim\n00:43 What AutoDNA is\n01:36 The four tests\n02:28 The longest run\n03:26 The fine print\n04:16 Why it matters\n04:50 What to watch\n\nSources:\n- Nature (Nov 4, 2026): \"An AI-native experimental laboratory for autonomous biomolecular operations\" - https://www.nature.com/articles/s41586-026-11228-6\n- HIMIAO Horizon summary (Nov 8, 2026): https://himiao.ai/en/news/2026-11-08-autodna-nature-ai-lab\n\nJoin THE OPERATOR CLUB, our close circle for AI builders and founders, with mentorship coming: https://whop.com/the-operator-club-dd2a/the-operator-club-39\n\nAlpha Explorer - a primary source, read past the headline, every day.",
+  "links": [
+    "https://www.nature.com/articles/s41586-026-11228-6"
+  ]
+}

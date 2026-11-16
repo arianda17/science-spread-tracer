@@ -1,0 +1,7 @@
+{
+ "channel": "bluesky",
+ "source_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=10.1038/s41586-026-11351-4&limit=100&sort=latest",
+ "retrieved_utc": "2026-11-16T13:19:53Z",
+ "query": "10.1038/s41586-026-11351-4",
+ "records": []
+}
